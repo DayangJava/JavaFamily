@@ -5,4 +5,4 @@
 
 - Spring
 
-  - <a href='http://write.blog.csdn.net/postlist' target='_blank'>IOC & DI & 循环依赖</a>
+  - [IOC & DI & 循环依赖](http://write.blog.csdn.net/postlist?_blank)
