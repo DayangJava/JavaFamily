@@ -5,5 +5,4 @@
 
 - Spring
 
-  - [IOC & DI & 循环依赖](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA?_blank)
-  - <a href="http://write.blog.csdn.net/postlist" target="_blank">跳到自己博客列表</a>
+  - <a href='http://write.blog.csdn.net/postlist' target='_blank'>IOC & DI & 循环依赖</a>
