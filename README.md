@@ -5,4 +5,4 @@
 
 - Spring
 
-  - [IOC & DI & 循环依赖](http://write.blog.csdn.net/postlist)
+  - [IOC & DI & 循环依赖](http://www.baidu.com)
